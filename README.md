@@ -7,7 +7,7 @@ Create a p5js game with your team members by applying JavaScript skills and conc
 Fork this repository and share it with your team members and I. At the end of each class period, push your changes to the repository. You may work on this project outside class as well.
 
 <h2>Starter Code</h2>
-p5js starter code is provided, along with the HTML file with a boiler plate.
+p5js starter code is provided, along with the HTML file with a boilerplate.
 
 <h2>Rubric</h2>
 <h2>A rubric is provided in the repository.</h2>
