@@ -9,4 +9,5 @@ Fork this repository and share it with your team members and I. At the end of ea
 <h2>Starter Code</h2>
 p5js starter code is provided, along with the HTML file with a boiler plate.
 
+<h2>Rubric</h2>
 <h2>A rubric is provided in the repository.</h2>
