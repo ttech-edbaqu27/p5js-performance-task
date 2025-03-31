@@ -1,1 +1,0 @@
-// completed day 1
