@@ -1,5 +1,5 @@
 # p5js-performance-task
-<h1>Group Project: Create a game with p5js</h1>
+<h1><u>Group Project</u>: Create a Game with p5js</h1>
 Due: Month Date, 20XX
 <h2>Directions</h2>
 Create a p5js game with your team members by applying JavaScript skills and concepts we have learned. Your code should be functional, and your repository should be organized.<br><br>
